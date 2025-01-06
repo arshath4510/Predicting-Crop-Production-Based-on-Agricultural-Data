@@ -61,3 +61,8 @@ The dataset should include the following columns:
 ---
 
 Feel free to contribute or provide feedback to enhance the project!
+
+---
+
+## Connect with Me
+You can connect with me on LinkedIn: [Arshath Parvesh](https://www.linkedin.com/in/arshathparvesh10/)
